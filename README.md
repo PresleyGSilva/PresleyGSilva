@@ -6,7 +6,7 @@ Sou uma pessoa altamente motivada, sempre disposta a aprender
 <!-- - :eyes: Looking to collaborate on **Web App Projects** -->
 
 
-- 🔭 Atualmente estou trabalhando  @Interas
+- 🔭 Atualmente estou trabalhando  @interas1999
 
 
 <h3 align="left">Aprendendo:</h3>
@@ -14,6 +14,8 @@ Sou uma pessoa altamente motivada, sempre disposta a aprender
   <img alt="Node" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img alt="JS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />   
  <img alt="TS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> 
+   <img alt="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  
 <!--   <img alt="Yarn"  height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg"/> -->
    </p>
    
