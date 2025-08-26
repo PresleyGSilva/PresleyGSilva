@@ -10,6 +10,28 @@
 
 ---
 
+### 🏷️ Minhas Badges
+
+<p align="center">
+  <!-- Linguagens principais -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
+
+<p align="center">
+  <!-- Ferramentas -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+</p>
+
+---
+
 ### 🚀 Sobre mim  
 
 Sou apaixonado por tecnologia e resolução de problemas.  
@@ -39,34 +61,8 @@ Atualmente, sou **graduando em Análise e Desenvolvimento de Sistemas** e tenho 
 
 ---
 
-### 📌 Projetos em Destaque  
 
-🔹 [**CineFlick**](https://github.com/seu-repositorio) — Plataforma de streaming integrada com **QPanel**, **Braip** e **Monetizze**.  
-🔹 [**Agro Tech**](https://github.com/seu-repositorio) — Sistema de gestão agrícola com **Node.js**, **Prisma** e **PostgreSQL**.  
-🔹 [**Renda Extra**](https://github.com/seu-repositorio) — Plataforma de cursos e automação de vendas.
 
----
-
-### 📊 Estatísticas do GitHub  
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=presleygs&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=presleygs&theme=tokyonight" alt="Streak stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=presleygs&theme=tokyo-night" alt="Activity graph"/>
-</p>
-
----
-
-### 🏆 Troféus do GitHub  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=presleygs&theme=tokyonight&row=1&column=7" />
-</p>
-
----
 
 ### 📬 Conecte-se comigo  
 
