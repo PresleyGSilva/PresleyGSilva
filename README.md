@@ -1,4 +1,4 @@
-```html
+html
 <!-- Banner principal -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E40AF,100:00BFFF&height=200&section=header&text=Presley%20Gonçalves&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer&descAlignY=58&descSize=19" />
@@ -163,4 +163,3 @@ Busco colaborar com equipes que valorizem qualidade técnica, aprendizado contí
 
 <!-- Rodapé animado -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E40AF,100:00BFFF&height=120&section=footer" />
-```
